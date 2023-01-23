@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Applicatioт21</string>
+    <string name="image_to_sea">Image to sea</string>
+    <string name="submit">Submit</string>
+    <string name="random">Random</string>
+    <string name="just_image">Just image</string>
+    <string name="url">URL</string>
+</resources>
